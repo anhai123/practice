@@ -8,7 +8,7 @@ int main()
     
     std::cout << "Tao Conflict ne \n";
     std::cout << "di lam phu ho thoi \n";
-    std::cout << "o nha \n;
+  //  std::cout << "o nha \n;
     std::cout << "chan vl \n";
 }
 
