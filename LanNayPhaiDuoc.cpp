@@ -7,6 +7,7 @@ int main()
 {
     std::cout << "Hello World!\n";
     std::cout << "Tao Conflict ne \n";
+    std::cot << "chan hoc code qua \n";
     
 }
 
